@@ -1,0 +1,14 @@
+Criar uma agenda de contatos com as seguintes informações:
+- nome;
+- data de nascimento;
+- telefone;
+- e-mail;
+
+Injeção de dependência na persistência:
+
+- XML*;
+- JSON*;
+- CSV*;
+- MySQL*;
+- MongoDB;
+- PostgreSQL;

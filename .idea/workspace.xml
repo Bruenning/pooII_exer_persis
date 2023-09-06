@@ -5,26 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e49b5e62-d1cc-44d9-ba1f-622aaabce2e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerPersistencia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/Contatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/Importing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/Imports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/files/contatos.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/files/contatos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/infos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/persistencia/Csv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/persistencia/Json.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/persistencia/MySql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/persis/persistencia/Xml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92738416efc8191d59dd8f67a97d7b6c37fc0687" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92738416efc8191d59dd8f67a97d7b6c37fc0687" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/persis/Importing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/persis/Importing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/persis/Imports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/persis/Imports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/persis/files/contatos.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/persis/files/contatos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/persis/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/persis/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/persis/persistencia/Csv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/persis/persistencia/Csv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/persis/persistencia/Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/persis/persistencia/Json.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ULFSweYl34YO2rD4T2CyTz7fk8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/tudo/2023/POOII/codigos/exerPersistencia/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gui_b/Downloads/opencsv-5.8.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,

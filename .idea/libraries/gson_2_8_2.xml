@@ -2,6 +2,7 @@
   <library name="gson-2.8.2">
     <CLASSES>
       <root url="jar://$USER_HOME$/Downloads/gson-2.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/opencsv-5.8.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

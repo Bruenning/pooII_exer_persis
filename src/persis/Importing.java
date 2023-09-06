@@ -1,5 +1,6 @@
 package persis;
 
+import java.io.IOException;
 import java.util.List;
 
 public class Importing<T extends Imports> implements Imports{
@@ -11,7 +12,7 @@ public class Importing<T extends Imports> implements Imports{
 	}
 
 	@Override
-	public boolean gravar(Contatos contato) {
+	public boolean gravar(Contatos contato) throws IOException {
 		return imports.gravar(contato);
 	}
 

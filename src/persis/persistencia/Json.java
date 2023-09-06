@@ -20,16 +20,20 @@ public class Json implements Imports {
 	}
 
 	@Override
-	public boolean gravar(Contatos contato) {
+	public boolean gravar(Contatos contato) throws IOException {
 		if(contatos.isEmpty())
 			this.lerArquivo();
 
+		boolean isvalid = false;
+
+
 		contatos.add(contato);
+		FileWriter writer = null;
 
 		try {
-			File caminho = new File("src/persis/files/Contatos.json");
+			File caminho = new File("src/persis/files/contatos.json");
 
-			FileWriter writer = new FileWriter(caminho.getAbsolutePath());
+			writer = new FileWriter(caminho.getAbsolutePath());
 
 			Gson gson = new Gson();
 
@@ -37,22 +41,26 @@ public class Json implements Imports {
 
 			writer.write(teste);
 
-			writer.close();
 
 			contatos = null;
 
-			return true;
+			isvalid = true;
+
+			writer.close();
+
 
 		} catch (IOException e) {
-			return false;
+			isvalid = false;
+		} finally {
 
+			return isvalid;
 		}
 	}
 
 	@Override
 	public boolean lerArquivo() {
 		try {
-			File caminho = new File("src/persis/files/Contatos.json");
+			File caminho = new File("src/persis/files/contatos.json");
 
 			FileReader fileReader = new FileReader(caminho);
 
